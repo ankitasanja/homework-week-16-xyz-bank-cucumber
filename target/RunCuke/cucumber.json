@@ -1,0 +1,209 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 85312801,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on homepage",
+            "match": {
+              "location": "BankSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5069172401,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.steUp()"
+            }
+          }
+        ],
+        "line": 49,
+        "name": "Customer should withdraw money successfully",
+        "description": "",
+        "id": "bank-test;customer-should-withdraw-money-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 704956500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 491801699,
+              "status": "passed"
+            },
+            "line": 50,
+            "name": "I click on customer login tab",
+            "match": {
+              "location": "BankSteps.iClickOnCustomerLoginTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2261445400,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "I search customer that you created",
+            "match": {
+              "location": "BankSteps.iSearchCustomerThatYouCreated()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 66942099,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "I click on login button",
+            "match": {
+              "location": "BankSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 912092200,
+              "status": "passed"
+            },
+            "line": 53,
+            "name": "I click on deposit tab",
+            "match": {
+              "location": "BankSteps.iClickOnDepositTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 429718300,
+              "status": "passed"
+            },
+            "line": 54,
+            "name": "I enter amount 100",
+            "match": {
+              "arguments": [
+                {
+                  "val": "100",
+                  "offset": 15
+                }
+              ],
+              "location": "BankSteps.iEnterAmount(int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2092930700,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "I click on deposit button",
+            "match": {
+              "location": "BankSteps.iClickOnDepositButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2104374000,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "I click on withdrawal tab",
+            "match": {
+              "location": "BankSteps.iClickOnWithdrawalTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2105249299,
+              "status": "passed"
+            },
+            "line": 57,
+            "name": "I enter amount 50 in customer login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "50",
+                  "offset": 15
+                }
+              ],
+              "location": "BankSteps.iEnterAmountInCustomerLoginPage(int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2100190400,
+              "status": "passed"
+            },
+            "line": 58,
+            "name": "I click on withdraw button",
+            "match": {
+              "location": "BankSteps.iClickOnWithdrawButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2049070001,
+              "status": "passed"
+            },
+            "line": 59,
+            "name": "I am able to verify message \"Transaction Successful\" on customer login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Transaction Successful",
+                  "offset": 29
+                }
+              ],
+              "location": "BankSteps.iAmAbleToVerifyMessageOnCustomerLoginPage(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 48,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Bank Test",
+    "description": "As a user I want to login into xyz bank website",
+    "id": "bank-test",
+    "keyword": "Feature",
+    "uri": "bank.feature"
+  }
+]

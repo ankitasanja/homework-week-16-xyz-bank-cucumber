@@ -1,0 +1,70 @@
+2023-05-23 10:05:55 INFO  BankManagerLoginPage :39 - Click on bank manager login
+2023-05-23 10:05:588 INFO  BankManagerLoginPage :44 - Click on add customer tab
+2023-05-23 10:05:317 INFO  BankManagerLoginPage :49 - Enter first name  John to firstName  field [[ChromeDriver: chrome on WINDOWS (81392f2edd45a2e7fc49087714a2ec12)] -> xpath: //input[@placeholder='First Name']]
+2023-05-23 10:05:428 INFO  BankManagerLoginPage :54 - Enter last name  Smith to lastName  field [[ChromeDriver: chrome on WINDOWS (81392f2edd45a2e7fc49087714a2ec12)] -> xpath: //input[@placeholder='Last Name']]
+2023-05-23 10:05:553 INFO  BankManagerLoginPage :59 - Enter post code  xy27ct to postcode  field [[ChromeDriver: chrome on WINDOWS (81392f2edd45a2e7fc49087714a2ec12)] -> xpath: //input[@placeholder='Post Code']]
+2023-05-23 10:05:634 INFO  BankManagerLoginPage :64 - Click on add customer tab
+2023-05-23 10:05:118 INFO  BankManagerLoginPage :39 - Click on bank manager login
+2023-05-23 10:05:615 INFO  OpenAccountPage :34 - Click on open account tab
+2023-05-23 10:05:125 INFO  OpenAccountPage :45 - Search customer
+2023-05-23 10:05:462 INFO  OpenAccountPage :49 - Search currency
+2023-05-23 10:05:598 INFO  OpenAccountPage :39 - Click on process button
+2023-05-23 10:05:881 INFO  CustomerLoginPage :68 - Click on customer login
+2023-05-23 10:05:432 INFO  CustomerLoginPage :74 - search customer name from drop down
+2023-05-23 10:05:677 INFO  CustomerLoginPage :79 - Click on login button
+2023-05-23 10:05:761 INFO  CustomerLoginPage :84 - Get logout text
+2023-05-23 10:05:810 INFO  CustomerLoginPage :89 - Click on logout tab
+2023-05-23 10:05:903 INFO  CustomerLoginPage :94 - Verify text
+2023-05-23 10:05:164 INFO  CustomerLoginPage :68 - Click on customer login
+2023-05-23 10:05:827 INFO  CustomerLoginPage :74 - search customer name from drop down
+2023-05-23 10:05:49 INFO  CustomerLoginPage :79 - Click on login button
+2023-05-23 10:05:125 INFO  CustomerLoginPage :99 - Click on deposit tab
+2023-05-23 10:05:140 INFO  CustomerLoginPage :104 - Enter amount
+2023-05-23 10:05:574 INFO  CustomerLoginPage :79 - Click on login button
+2023-05-23 10:05:186 INFO  CustomerLoginPage :68 - Click on customer login
+2023-05-23 10:05:742 INFO  CustomerLoginPage :74 - search customer name from drop down
+2023-05-23 10:05:987 INFO  CustomerLoginPage :79 - Click on login button
+2023-05-23 10:05:65 INFO  CustomerLoginPage :99 - Click on deposit tab
+2023-05-23 10:05:25 INFO  CustomerLoginPage :104 - Enter amount
+2023-05-23 10:05:427 INFO  CustomerLoginPage :109 - Click on deposit button
+2023-05-23 10:05:532 INFO  CustomerLoginPage :114 - verify deposit text
+2023-05-23 10:05:694 INFO  CustomerLoginPage :68 - Click on customer login
+2023-05-23 10:05:442 INFO  CustomerLoginPage :74 - search customer name from drop down
+2023-05-23 10:05:718 INFO  CustomerLoginPage :79 - Click on login button
+2023-05-23 10:05:797 INFO  CustomerLoginPage :99 - Click on deposit tab
+2023-05-23 10:05:790 INFO  CustomerLoginPage :104 - Enter amount
+2023-05-23 10:05:199 INFO  CustomerLoginPage :109 - Click on deposit button
+2023-05-23 10:05:288 INFO  CustomerLoginPage :119 - Click on withdrawal tab
+2023-05-23 10:05:398 INFO  CustomerLoginPage :104 - Enter amount
+2023-05-23 10:05:506 INFO  CustomerLoginPage :124 - Click on withdrawal button
+2023-05-23 10:05:887 INFO  CustomerLoginPage :129 - Verify withdrawal text
+2023-05-23 10:05:473 INFO  CustomerLoginPage :68 - Click on customer login
+2023-05-23 10:05:45 INFO  CustomerLoginPage :74 - search customer name from drop down
+2023-05-23 10:05:267 INFO  CustomerLoginPage :79 - Click on login button
+2023-05-23 10:05:341 INFO  CustomerLoginPage :99 - Click on deposit tab
+2023-05-23 10:05:350 INFO  CustomerLoginPage :104 - Enter amount
+2023-05-23 10:05:784 INFO  CustomerLoginPage :109 - Click on deposit button
+2023-05-23 10:05:878 INFO  CustomerLoginPage :119 - Click on withdrawal tab
+2023-05-23 10:05:03 INFO  CustomerLoginPage :104 - Enter amount
+2023-05-23 10:05:146 INFO  CustomerLoginPage :124 - Click on withdrawal button
+2023-05-23 10:05:300 INFO  CustomerLoginPage :129 - Verify withdrawal text
+2023-05-23 10:05:853 INFO  CustomerLoginPage :68 - Click on customer login
+2023-05-23 10:05:441 INFO  CustomerLoginPage :74 - search customer name from drop down
+2023-05-23 10:05:669 INFO  CustomerLoginPage :79 - Click on login button
+2023-05-23 10:05:743 INFO  CustomerLoginPage :99 - Click on deposit tab
+2023-05-23 10:05:659 INFO  CustomerLoginPage :104 - Enter amount
+2023-05-23 10:05:75 INFO  CustomerLoginPage :109 - Click on deposit button
+2023-05-23 10:05:172 INFO  CustomerLoginPage :119 - Click on withdrawal tab
+2023-05-23 10:05:290 INFO  CustomerLoginPage :104 - Enter amount
+2023-05-23 10:05:399 INFO  CustomerLoginPage :124 - Click on withdrawal button
+2023-05-23 10:05:534 INFO  CustomerLoginPage :129 - Verify withdrawal text
+2023-05-23 11:05:951 INFO  CustomerLoginPage :68 - Click on customer login
+2023-05-23 11:05:446 INFO  CustomerLoginPage :74 - search customer name from drop down
+2023-05-23 11:05:699 INFO  CustomerLoginPage :79 - Click on login button
+2023-05-23 11:05:767 INFO  CustomerLoginPage :99 - Click on deposit tab
+2023-05-23 11:05:685 INFO  CustomerLoginPage :104 - Enter amount
+2023-05-23 11:05:117 INFO  CustomerLoginPage :109 - Click on deposit button
+2023-05-23 11:05:223 INFO  CustomerLoginPage :119 - Click on withdrawal tab
+2023-05-23 11:05:317 INFO  CustomerLoginPage :104 - Enter amount
+2023-05-23 11:05:426 INFO  CustomerLoginPage :124 - Click on withdrawal button
+2023-05-23 11:05:534 INFO  CustomerLoginPage :129 - Verify withdrawal text
